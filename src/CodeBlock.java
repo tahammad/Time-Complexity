@@ -1,12 +1,3 @@
-package hw3;
-/**
- * 
- * @author Tanjim Ahammad
- * SBU Email: tanjim.ahammad@stonybrook.edu
- * Recitation: R03
- * SBU ID:114863193
- */
-
 public class CodeBlock {
 /**
  * Contains final string block type that will be used to see whether a block contains these block headers
