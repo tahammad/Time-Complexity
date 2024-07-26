@@ -1,13 +1,5 @@
-package hw3;
-
 import java.io.*;
 import java.util.*;
-
-/**
- * 
- * @author Tanjim Ahammad SBU Email: tanjim.ahammad@stonybrook.edu
- *  Recitation:R03 SBU ID:114863193
- */
 //number of digits in the name is stack size
 public class PythonTracer {
 	public static final int SPACE_COUNT = 4;
