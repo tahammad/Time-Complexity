@@ -1,11 +1,3 @@
-package hw3;
-/**
- * 
- * @author Tanjim Ahammad
- * SBU Email: tanjim.ahammad@stonybrook.edu
- * Recitation: R03
- * SBU ID:114863193
- */
 public class Complexity {
 	int nPower;
 	int logPower;
